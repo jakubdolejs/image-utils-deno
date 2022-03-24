@@ -7,6 +7,10 @@ This library is a collection of image manipulation utilities running inside the 
 - [Deno](https://deno.land)
 - [ImageMagick](https://imagemagick.org)
 
+## API documentation
+
+API documentation is [available]((https://doc.deno.land/https://raw.githubusercontent.com/jakubdolejs/image-utils-deno/main/mod.ts)) on the Deno Doc website.
+
 ## Usage
 
 ### Get image dimensions
